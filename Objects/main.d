@@ -1,0 +1,13 @@
+.\objects\main.o: main.c
+.\objects\main.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\objects\main.o: .\CMSIS\CM0\CoreSupport\core_cm0.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\objects\main.o: .\inc\System\SysInfra.h
+.\objects\main.o: .\inc\System\ModuleID.h
+.\objects\main.o: .\inc\Driver\DrvSYS.h
+.\objects\main.o: .\inc\Driver\DrvGPIO.h
+.\objects\main.o: .\Header_File\Function_Define.h
+.\objects\main.o: .\inc\Driver\DrvTIMER.h
+.\objects\main.o: .\Header_File\Pet_CH_Define.h
+.\objects\main.o: .\Header_File\LCD_Define.h

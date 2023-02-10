@@ -1,0 +1,10 @@
+.\objects\scankey.o: src\NUC1xx-LB_002\ScanKey.c
+.\objects\scankey.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\scankey.o: .\inc\Driver\DrvGPIO.h
+.\objects\scankey.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\objects\scankey.o: .\CMSIS\CM0\CoreSupport\core_cm0.h
+.\objects\scankey.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\scankey.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\objects\scankey.o: .\inc\System\SysInfra.h
+.\objects\scankey.o: .\inc\System\ModuleID.h
+.\objects\scankey.o: .\inc\NUC1xx-LB_002\ScanKey.h

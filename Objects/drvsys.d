@@ -1,0 +1,9 @@
+.\objects\drvsys.o: src\Driver\DrvSYS.c
+.\objects\drvsys.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\drvsys.o: .\inc\Driver\DrvSYS.h
+.\objects\drvsys.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\objects\drvsys.o: .\CMSIS\CM0\CoreSupport\core_cm0.h
+.\objects\drvsys.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\drvsys.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\objects\drvsys.o: .\inc\System\SysInfra.h
+.\objects\drvsys.o: .\inc\System\ModuleID.h

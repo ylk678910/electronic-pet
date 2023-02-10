@@ -1,0 +1,11 @@
+.\objects\animation.o: Animation.c
+.\objects\animation.o: .\Header_File\Function_Define.h
+.\objects\animation.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\animation.o: .\inc\Driver\DrvTIMER.h
+.\objects\animation.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\objects\animation.o: .\CMSIS\CM0\CoreSupport\core_cm0.h
+.\objects\animation.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\objects\animation.o: .\inc\System\SysInfra.h
+.\objects\animation.o: .\inc\System\ModuleID.h
+.\objects\animation.o: .\Header_File\Pet_CH_Define.h
+.\objects\animation.o: .\Header_File\LCD_Define.h

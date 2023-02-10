@@ -1,0 +1,92 @@
+Dependencies for Project 'Electronic_Pet_Machine', Target 'Target 1': (DO NOT MODIFY !)
+F (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\startup\arm\startup_NUC1xx.s)(0x5DE76B9A)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 528"--list .\listings\startup_nuc1xx.lst --xref -o .\objects\startup_nuc1xx.o --depend .\objects\startup_nuc1xx.d)
+F (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.c)(0x53D0A2BC)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\system_nuc1xx.o --omf_browse .\objects\system_nuc1xx.crf --depend .\objects\system_nuc1xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+F (.\main.c)(0x5DECA11E)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvSYS.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvGPIO.h)(0x53D0A2BC)
+I (.\Header_File\Function_Define.h)(0x5DEC76FE)
+I (.\inc\Driver\DrvTIMER.h)(0x5DE76EB6)
+I (.\Header_File\Pet_CH_Define.h)(0x5DEC9D06)
+I (.\Header_File\LCD_Define.h)(0x5DEC9C64)
+F (.\Varible.c)(0x5DECA0A2)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\varible.o --omf_browse .\objects\varible.crf --depend .\objects\varible.d)
+I (.\Header_File\LCD_Define.h)(0x5DEC9C64)
+I (.\Header_File\Pet_CH_Define.h)(0x5DEC9D06)
+F (.\Animation.c)(0x5DEC9D68)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\animation.o --omf_browse .\objects\animation.crf --depend .\objects\animation.d)
+I (.\Header_File\Function_Define.h)(0x5DEC76FE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\inc\Driver\DrvTIMER.h)(0x5DE76EB6)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+I (.\Header_File\Pet_CH_Define.h)(0x5DEC9D06)
+I (.\Header_File\LCD_Define.h)(0x5DEC9C64)
+F (.\LCD_Function.c)(0x5DEC932A)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\lcd_function.o --omf_browse .\objects\lcd_function.crf --depend .\objects\lcd_function.d)
+I (.\Header_File\LCD_Define.h)(0x5DEC9C64)
+F (.\src\Driver\DrvSYS.c)(0x5DDA87DE)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\drvsys.o --omf_browse .\objects\drvsys.crf --depend .\objects\drvsys.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB79E2)
+I (.\inc\Driver\DrvSYS.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+F (.\src\Driver\DrvGPIO.c)(0x53D0A332)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\drvgpio.o --omf_browse .\objects\drvgpio.crf --depend .\objects\drvgpio.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvGPIO.h)(0x53D0A2BC)
+F (.\src\NUC1xx-LB_002\LCD_Driver.c)(0x5DE28BBE)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\lcd_driver.o --omf_browse .\objects\lcd_driver.crf --depend .\objects\lcd_driver.d)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvSYS.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvSPI.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvGPIO.h)(0x53D0A2BC)
+I (.\inc\NUC1xx-LB_002\LCD_Driver.h)(0x53D0A2BC)
+F (.\src\Driver\DrvTIMER.c)(0x5DEB1C12)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\drvtimer.o --omf_browse .\objects\drvtimer.crf --depend .\objects\drvtimer.d)
+I (.\inc\Driver\DrvTIMER.h)(0x5DE76EB6)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvSYS.h)(0x53D0A2BC)
+I (.\inc\Driver\DrvGPIO.h)(0x53D0A2BC)
+F (.\src\NUC1xx-LB_002\Ascii_Table.c)(0x53D0A332)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\ascii_table.o --omf_browse .\objects\ascii_table.crf --depend .\objects\ascii_table.d)
+F (.\src\NUC1xx-LB_002\ScanKey.c)(0x53D0A332)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc -I .\inc\Driver -I .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I .\CMSIS\CM0\CoreSupport -I .\Header_File-I.\RTE\_Target_1-IC:\Users\よ\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.4\Device\NUC100\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\scankey.o --omf_browse .\objects\scankey.crf --depend .\objects\scankey.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB79E2)
+I (.\inc\Driver\DrvGPIO.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x53D0A2BC)
+I (.\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5DE9AF16)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (.\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x5DE9BD8A)
+I (.\inc\System\SysInfra.h)(0x53D0A2BE)
+I (.\inc\System\ModuleID.h)(0x53D0A2BC)
+I (.\inc\NUC1xx-LB_002\ScanKey.h)(0x53D0A2BC)
+F (.\Header_File\GPIO.h)(0x5DE764F4)()
+F (.\Header_File\Function_Define.h)(0x5DEC76FE)()
+F (.\Header_File\LCD_Define.h)(0x5DEC9C64)()
+F (.\Header_File\Pet_CH_Define.h)(0x5DEC9D06)()
